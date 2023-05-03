@@ -6,7 +6,7 @@ Here you have fully dockerized project.
 ### To install Cinema API using GitHub, follow these steps:
 - Install PostgreSQL and create a database.
 - Clone the repository by running the following command:
-`git clone https://github.com/ZabFTFT/cinema-API.git`
+`git clone https://github.com/tytomyr/Dockerized-DRF-Cinema/`
 - Install virtual environment: 
 ```
 python -m venv venv
