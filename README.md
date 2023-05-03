@@ -7,7 +7,12 @@ Here you have fully dockerized project.
 - Install PostgreSQL and create a database.
 - Clone the repository by running the following command:
 `git clone https://github.com/ZabFTFT/cinema-API.git`
-
+- Install virtual environment: 
+```
+python -m venv venv
+venv\Scripts\activate (on Windows)
+source venv/bin/activate (on macOS)
+```
 - Install the required packages by running:
 `pip install -r requirements.txt`
 - Set the required environment variables in .env 
